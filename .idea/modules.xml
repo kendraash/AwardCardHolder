@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AwardsCardHolder.iml" filepath="$PROJECT_DIR$/AwardsCardHolder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AwardCardHolder.iml" filepath="$PROJECT_DIR$/AwardCardHolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
